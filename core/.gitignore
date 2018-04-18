@@ -3,7 +3,6 @@
 /public/storage
 /storage/*.key
 !/vendor/autoload.php
-/vendor
 /.idea
 /.vagrant
 Homestead.json
