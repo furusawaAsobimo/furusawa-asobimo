@@ -5,6 +5,7 @@
 /vendor/*
 !/vendor/autoload.php
 !/vendor/composer/
+!/vendor/symfony/
 /.idea
 /.vagrant
 Homestead.json
