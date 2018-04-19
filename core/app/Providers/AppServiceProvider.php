@@ -18,6 +18,8 @@ class AppServiceProvider extends ServiceProvider
     {
         Schema::defaultStringLength(191);
 
+        URL::forceSchema('https');
+
        $gnl = General::first();
         if($gnl == null)
         {
