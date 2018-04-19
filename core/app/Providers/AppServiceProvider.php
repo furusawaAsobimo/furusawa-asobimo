@@ -6,7 +6,7 @@ use App\General;
 use App\Ico;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
-use phpDocumentor\Reflection\DocBlock\Tags\Reference\Url;
+use Illuminate\Support\Facades\URL;
 
 class AppServiceProvider extends ServiceProvider
 {
